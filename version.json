@@ -1,6 +1,4 @@
 {
-  "version": "1.5.1",
-  "maintenance": false,
-  "maintenance_message": "",
-  "changelog": "Initial release"
+  "version": "1.0.0",
+  "caninstall": true
 }
