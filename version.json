@@ -1,4 +1,6 @@
 {
   "version": "1.0.0",
-  "caninstall": false
+  "caninstall": true,
+  "core_url": "https://github.com/DadoDz/cs16-zpx-addons-installer/releases/download/v1.0.0/core.zip",
+  "addons_url": "https://github.com/DadoDz/cs16-zpx-addons-installer/releases/download/v1.0.0/cs16-zpx-addons-installer.zip"
 }
